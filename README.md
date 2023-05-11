@@ -1,6 +1,4 @@
-👋 Hi, I’m Ray Lum.
-👀 I’m interested in C Language & UI/UX Design.
-🌱 I’m currently learning C.
+🐯 只要你不在意，那你就不知道跟你对话的家伙是人还是黄色蠢老虎。
 
 <!---
 Ray-Lum/Ray-Lum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
